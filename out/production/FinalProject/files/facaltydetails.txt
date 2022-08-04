@@ -1,0 +1,3 @@
+sultana tasneem,sultana@gmail.com,eng,engishthekey,facalty
+rjp,rjp@gmail.com,cse,123456,facalty
+jer,jer@gmail.com,civil,123456,facalty

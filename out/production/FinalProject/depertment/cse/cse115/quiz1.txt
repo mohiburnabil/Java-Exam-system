@@ -1,0 +1,10 @@
+How many primitive data types are there in java?,6,7,8,9,8
+Which one of the following is a valid statement?,char[] c = new char();,char[] c = new char[5];,char[] c = new char(4);,char[] c = new char[];,char[] c = new char[5];
+What is Math.floor(3.6)?,3.0,3,4,4.0,3
+Which Class stays at the top of all class?,Object,Exception,Collection,JFrame,Object
+Full form of JVM?,Java valid machine,javax vartual Machine,Java vartual Mine,java vartual Machine,java vartual Machine
+Which method cannot be overriden?,super,static,final,private,final
+Exception generated in try block ic caught in .........block?,catch,throw,throws,finaly,catchWhich keyword is used to explicitly throw an exception?,try,throwing,catch,throw,throw
+Multiple inheritance means?,one class inheriting from more super classes,more classes inheriting from one super class,more classes inheriting from more super classes,None of the above,one class inheriting from more super classes
+The fields in an interface are implicitly specified as?, static only, protected,private,both static and final,none of the abovWhich of the following is true?, A finally block is executed before the catch block but after the try block,A finally block is executed, only after the catch block is executed,A finally block is executed whether an exception is thrown or not,A finally block is executed, only if an exception occurs,None of the above,A finally block is executed whether an exception is thrown or not
+Which of the following is not true?,An interface can extend another interface,A class which is implementing an interface must implement all the methods of the interface,An interface can implement another interface,An interface is a solution for multiple inheritance in java,None of the above,An interface can implement another interface

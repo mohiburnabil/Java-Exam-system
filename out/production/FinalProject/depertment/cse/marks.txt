@@ -1,0 +1,2 @@
+nabil,cse115,quiz1,40
+mahi,cse115,quiz1,40
